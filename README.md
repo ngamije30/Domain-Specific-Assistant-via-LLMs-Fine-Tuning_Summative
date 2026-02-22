@@ -1,7 +1,7 @@
 # Domain-Specific Assistant via LLM Fine-Tuning (Healthcare)
 
 Open In Colab: https://colab.research.google.com/drive/1Qo9MyNfSwcicVvTTGlEEBATSfnKEgcBP?usp=sharing
-
+Demo video: https://drive.google.com/file/d/1CH1EVSMVSTexaxSjEf0zdgesqgn4JD45/view?usp=sharing
 ## Overview
 
 This project builds a healthcare Q and A assistant by fine-tuning TinyLlama-1.1B-Chat on medical flashcard data. The goal is to produce concise, domain-relevant answers and demonstrate a complete end-to-end pipeline: data preparation, LoRA fine-tuning, evaluation, and Gradio deployment.
